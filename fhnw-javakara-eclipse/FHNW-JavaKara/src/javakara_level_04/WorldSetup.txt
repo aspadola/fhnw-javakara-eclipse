@@ -1,0 +1,9 @@
+World: Java Kara Level 4
+X: 9
+Y: 9
+
+
+
+  #####
+@
+   #####

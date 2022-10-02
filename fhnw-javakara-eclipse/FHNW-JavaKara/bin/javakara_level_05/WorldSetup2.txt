@@ -1,0 +1,9 @@
+World: Java Kara Level 5
+X: 9
+Y: 9
+
+
+
+ #####
+@
+  #####

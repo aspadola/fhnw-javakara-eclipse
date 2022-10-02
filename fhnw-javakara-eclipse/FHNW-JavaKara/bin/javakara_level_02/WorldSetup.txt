@@ -1,0 +1,6 @@
+World: Java Kara Level 2
+X: 9
+Y: 9
+
+
+ @

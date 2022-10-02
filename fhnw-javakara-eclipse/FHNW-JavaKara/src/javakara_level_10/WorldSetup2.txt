@@ -1,0 +1,11 @@
+World: Java Kara Level 10
+X: 9
+Y: 9
+@  ...
+
+......
+
+
+  . .
+
+..
